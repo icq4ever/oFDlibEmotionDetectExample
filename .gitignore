@@ -1,0 +1,11 @@
+obj/*
+*.code-workspace
+*.qbs
+*.dat
+*.weight
+classifiers/*
+*.jpg
+*.png
+dlibEmotionDetectionExample
+*.so
+.vscode
