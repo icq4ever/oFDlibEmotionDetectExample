@@ -58,7 +58,7 @@ void EmotionDetector::getEmotion(dlib::full_object_detection shape){
 
 	switch(idx){
 	case 0:
-		std::cout <<"face is nutural" << std::endl;
+		std::cout <<"face is neutral" << std::endl;
 		break;
 	case 1 :
 		std::cout << "face is happy" << std::endl;
